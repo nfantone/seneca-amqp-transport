@@ -3,6 +3,8 @@
 > A [Seneca.js][1] transport plugin
 
 # seneca-amqp-transport
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nfantone/seneca-amqp-transport.svg)](https://greenkeeper.io/)
 [![js-semistandard-style](https://cdn.rawgit.com/flet/semistandard/master/badge.svg)](https://github.com/Flet/semistandard)
 
 This plugin allows seneca listeners and clients to communicate over [AMQP][2].
